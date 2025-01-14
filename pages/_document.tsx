@@ -14,7 +14,6 @@ export default class MyDocument extends Document {
             as="font"
             crossOrigin=""
           />
-          <link rel="preconnect" href="https://cpemael.avenir-resa.fr/"></link>
         </Head>
         <body>
           <Main />
